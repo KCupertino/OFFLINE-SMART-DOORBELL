@@ -48,19 +48,22 @@ The camera will capture the image of a person at the door and the lightweight mo
 ## Team member responsibilities
 
 - Team Member 1 : Athiniraj Karthigairaj
+- Team Member 2 : Kyle Cupertino
 
-I will be responsible for setting up the hardware and software, implementing
-the detection system, testing the model, researching suitable lightweight
-models, documenting the project, and preparing the final demonstration.
+Kyle will be responsible for setting up some of the software, helping to implement the detection system, and researching suitable lightweight models, and testing the model.
+
+Athiniraj will be responsible for setting up the hardware and software, and implementing the detection system, and helping with model testing when needed.
+
+We will both document the project and prepare the final demonstration.
 
 ## Lead Roles
 
-- Setup
-- Software
-- Networking
-- Writing
-- Research
-- Algorithm Design
+- Setup : Athiniraj
+- Software : Athiniraj + Kyle
+- Networking : Kyle
+- Writing : Athiniraj + Kyle
+- Research : Kyle
+- Algorithm Design : Athiniraj
 
 ## Project Timeline
 
